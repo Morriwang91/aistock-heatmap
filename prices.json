@@ -1,18 +1,16 @@
 {
-  "generated_at": "2026-07-23 19:49:23",
-  "generated_at_utc": "2026-07-23T19:49:23+00:00",
+  "generated_at": "2026-07-23 20:51:46",
+  "generated_at_utc": "2026-07-23T20:51:46+00:00",
   "source": "Yahoo Finance quote/chart + yfinance fallback",
   "note": "盘中或最近交易日行情；H股页面五位代码；TW/JP/KR 使用 Yahoo 后缀 .TW/.TWO/.T/.KS/.KQ 抓取。",
   "total_symbols": 652,
-  "loaded_symbols": 650,
+  "loaded_symbols": 651,
   "missing_symbols": 1,
-  "price_only_symbols": 1,
+  "price_only_symbols": 0,
   "failures": [
     "US:ANSS"
   ],
-  "partial_symbols": [
-    "A:300418"
-  ],
+  "partial_symbols": [],
   "prices": {
     "A:000021": {
       "price": 40.22,
@@ -21,7 +19,7 @@
       "symbol": "000021.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:000034": {
       "price": 27.41,
@@ -30,7 +28,7 @@
       "symbol": "000034.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:000049": {
       "price": 23.73,
@@ -39,7 +37,7 @@
       "symbol": "000049.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:000063": {
       "price": 37.5,
@@ -48,7 +46,7 @@
       "symbol": "000063.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:000066": {
       "price": 15.27,
@@ -57,7 +55,7 @@
       "symbol": "000066.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:000400": {
       "price": 21.72,
@@ -66,7 +64,7 @@
       "symbol": "000400.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:000420": {
       "price": 3.61,
@@ -75,7 +73,7 @@
       "symbol": "000420.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:000586": {
       "price": 10.15,
@@ -84,7 +82,7 @@
       "symbol": "000586.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:000725": {
       "price": 6.04,
@@ -93,7 +91,7 @@
       "symbol": "000725.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:000811": {
       "price": 42.96,
@@ -102,7 +100,7 @@
       "symbol": "000811.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:000831": {
       "price": 49.36,
@@ -111,7 +109,7 @@
       "symbol": "000831.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:000837": {
       "price": 8.62,
@@ -120,7 +118,7 @@
       "symbol": "000837.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:000938": {
       "price": 44.9,
@@ -129,7 +127,7 @@
       "symbol": "000938.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:000970": {
       "price": 13.01,
@@ -138,7 +136,7 @@
       "symbol": "000970.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:000977": {
       "price": 90.47,
@@ -147,7 +145,7 @@
       "symbol": "000977.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:000988": {
       "price": 113.51,
@@ -156,7 +154,7 @@
       "symbol": "000988.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:002006": {
       "price": 12.88,
@@ -165,7 +163,7 @@
       "symbol": "002006.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002011": {
       "price": 10.1,
@@ -174,7 +172,7 @@
       "symbol": "002011.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:002015": {
       "price": 15.4,
@@ -183,7 +181,7 @@
       "symbol": "002015.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:002028": {
       "price": 154.27,
@@ -192,7 +190,7 @@
       "symbol": "002028.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:002031": {
       "price": 4.6,
@@ -201,7 +199,7 @@
       "symbol": "002031.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002036": {
       "price": 7.23,
@@ -210,7 +208,7 @@
       "symbol": "002036.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:002046": {
       "price": 47.82,
@@ -219,7 +217,7 @@
       "symbol": "002046.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002050": {
       "price": 38.36,
@@ -228,7 +226,7 @@
       "symbol": "002050.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:002056": {
       "price": 21.7,
@@ -237,7 +235,7 @@
       "symbol": "002056.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002121": {
       "price": 4.63,
@@ -246,7 +244,7 @@
       "symbol": "002121.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:002130": {
       "price": 15.63,
@@ -255,7 +253,7 @@
       "symbol": "002130.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002139": {
       "price": 9.59,
@@ -264,7 +262,7 @@
       "symbol": "002139.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002149": {
       "price": 32.11,
@@ -273,7 +271,7 @@
       "symbol": "002149.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002156": {
       "price": 74.9,
@@ -282,7 +280,7 @@
       "symbol": "002156.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002179": {
       "price": 34.31,
@@ -291,7 +289,7 @@
       "symbol": "002179.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002185": {
       "price": 18.42,
@@ -300,7 +298,7 @@
       "symbol": "002185.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002202": {
       "price": 17.51,
@@ -309,7 +307,7 @@
       "symbol": "002202.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:10+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:002222": {
       "price": 57.52,
@@ -318,7 +316,7 @@
       "symbol": "002222.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:002230": {
       "price": 40.83,
@@ -327,7 +325,7 @@
       "symbol": "002230.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:002236": {
       "price": 16.61,
@@ -336,7 +334,7 @@
       "symbol": "002236.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:002241": {
       "price": 22.38,
@@ -345,7 +343,7 @@
       "symbol": "002241.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:002273": {
       "price": 26.95,
@@ -354,7 +352,7 @@
       "symbol": "002273.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002281": {
       "price": 191.9,
@@ -363,7 +361,7 @@
       "symbol": "002281.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002297": {
       "price": 17.08,
@@ -372,7 +370,7 @@
       "symbol": "002297.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002334": {
       "price": 6.05,
@@ -381,7 +379,7 @@
       "symbol": "002334.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:002335": {
       "price": 30.66,
@@ -390,7 +388,7 @@
       "symbol": "002335.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:002362": {
       "price": 14.17,
@@ -399,7 +397,7 @@
       "symbol": "002362.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:002364": {
       "price": 38.96,
@@ -408,7 +406,7 @@
       "symbol": "002364.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:002368": {
       "price": 13.66,
@@ -417,7 +415,7 @@
       "symbol": "002368.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:002371": {
       "price": 764.0,
@@ -426,7 +424,7 @@
       "symbol": "002371.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:002384": {
       "price": 217.5,
@@ -435,7 +433,7 @@
       "symbol": "002384.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002405": {
       "price": 6.17,
@@ -444,7 +442,7 @@
       "symbol": "002405.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:002406": {
       "price": 6.16,
@@ -453,7 +451,7 @@
       "symbol": "002406.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002409": {
       "price": 149.86,
@@ -462,7 +460,7 @@
       "symbol": "002409.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:002410": {
       "price": 8.88,
@@ -471,7 +469,7 @@
       "symbol": "002410.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:002415": {
       "price": 35.63,
@@ -480,7 +478,7 @@
       "symbol": "002415.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:002428": {
       "price": 75.2,
@@ -489,7 +487,7 @@
       "symbol": "002428.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:002436": {
       "price": 35.01,
@@ -498,7 +496,7 @@
       "symbol": "002436.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002456": {
       "price": 6.83,
@@ -507,7 +505,7 @@
       "symbol": "002456.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:002460": {
       "price": 47.43,
@@ -516,7 +514,7 @@
       "symbol": "002460.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002463": {
       "price": 114.23,
@@ -525,7 +523,7 @@
       "symbol": "002463.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002466": {
       "price": 43.92,
@@ -534,7 +532,7 @@
       "symbol": "002466.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002472": {
       "price": 36.95,
@@ -543,7 +541,7 @@
       "symbol": "002472.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002475": {
       "price": 59.16,
@@ -552,7 +550,7 @@
       "symbol": "002475.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002491": {
       "price": 16.46,
@@ -561,7 +559,7 @@
       "symbol": "002491.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:002517": {
       "price": 16.06,
@@ -570,7 +568,7 @@
       "symbol": "002517.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:002518": {
       "price": 33.0,
@@ -579,7 +577,7 @@
       "symbol": "002518.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:002527": {
       "price": 9.84,
@@ -588,7 +586,7 @@
       "symbol": "002527.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002555": {
       "price": 18.85,
@@ -597,7 +595,7 @@
       "symbol": "002555.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:002558": {
       "price": 28.02,
@@ -606,7 +604,7 @@
       "symbol": "002558.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:002594": {
       "price": 91.57,
@@ -615,7 +613,7 @@
       "symbol": "002594.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002600": {
       "price": 12.13,
@@ -624,7 +622,7 @@
       "symbol": "002600.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:002747": {
       "price": 32.99,
@@ -633,7 +631,7 @@
       "symbol": "002747.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002837": {
       "price": 60.51,
@@ -642,7 +640,7 @@
       "symbol": "002837.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:002850": {
       "price": 176.22,
@@ -651,7 +649,7 @@
       "symbol": "002850.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:002896": {
       "price": 62.5,
@@ -660,7 +658,7 @@
       "symbol": "002896.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:002913": {
       "price": 43.9,
@@ -669,7 +667,7 @@
       "symbol": "002913.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002916": {
       "price": 337.98,
@@ -678,7 +676,7 @@
       "symbol": "002916.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002920": {
       "price": 82.38,
@@ -687,7 +685,7 @@
       "symbol": "002920.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:002938": {
       "price": 91.41,
@@ -696,7 +694,7 @@
       "symbol": "002938.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:002979": {
       "price": 57.7,
@@ -705,7 +703,7 @@
       "symbol": "002979.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:003021": {
       "price": 77.02,
@@ -714,7 +712,7 @@
       "symbol": "003021.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:003816": {
       "price": 4.11,
@@ -723,7 +721,7 @@
       "symbol": "003816.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:10+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:300007": {
       "price": 30.8,
@@ -732,7 +730,7 @@
       "symbol": "300007.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300014": {
       "price": 53.0,
@@ -741,7 +739,7 @@
       "symbol": "300014.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300024": {
       "price": 15.2,
@@ -750,7 +748,7 @@
       "symbol": "300024.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300033": {
       "price": 225.03,
@@ -759,7 +757,7 @@
       "symbol": "300033.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:300059": {
       "price": 20.08,
@@ -768,7 +766,7 @@
       "symbol": "300059.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:300115": {
       "price": 25.73,
@@ -777,7 +775,7 @@
       "symbol": "300115.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300124": {
       "price": 61.59,
@@ -786,7 +784,7 @@
       "symbol": "300124.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300125": {
       "price": 7.59,
@@ -795,7 +793,7 @@
       "symbol": "300125.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:300161": {
       "price": 23.6,
@@ -804,7 +802,7 @@
       "symbol": "300161.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300207": {
       "price": 16.97,
@@ -813,7 +811,7 @@
       "symbol": "300207.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300214": {
       "price": 8.55,
@@ -822,7 +820,7 @@
       "symbol": "300214.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:300223": {
       "price": 157.82,
@@ -831,7 +829,7 @@
       "symbol": "300223.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:300224": {
       "price": 10.54,
@@ -840,7 +838,7 @@
       "symbol": "300224.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300229": {
       "price": 12.51,
@@ -849,7 +847,7 @@
       "symbol": "300229.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300253": {
       "price": 6.88,
@@ -858,7 +856,7 @@
       "symbol": "300253.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:300274": {
       "price": 109.95,
@@ -867,7 +865,7 @@
       "symbol": "300274.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:300302": {
       "price": 29.56,
@@ -876,7 +874,7 @@
       "symbol": "300302.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:300308": {
       "price": 1060.8,
@@ -885,7 +883,7 @@
       "symbol": "300308.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:300320": {
       "price": 7.7,
@@ -894,7 +892,7 @@
       "symbol": "300320.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300339": {
       "price": 36.13,
@@ -903,7 +901,7 @@
       "symbol": "300339.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300346": {
       "price": 55.36,
@@ -912,7 +910,7 @@
       "symbol": "300346.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:300354": {
       "price": 27.71,
@@ -921,7 +919,7 @@
       "symbol": "300354.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300364": {
       "price": 20.49,
@@ -930,7 +928,7 @@
       "symbol": "300364.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300376": {
       "price": 4.43,
@@ -939,7 +937,7 @@
       "symbol": "300376.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:300383": {
       "price": 13.54,
@@ -948,7 +946,7 @@
       "symbol": "300383.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300394": {
       "price": 217.63,
@@ -957,7 +955,7 @@
       "symbol": "300394.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:300408": {
       "price": 102.98,
@@ -966,15 +964,16 @@
       "symbol": "300408.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:300418": {
-      "price": 39.32,
+      "price": 41.18,
+      "change": -5.29,
       "currency": "CNY",
       "symbol": "300418.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300433": {
       "price": 36.8,
@@ -983,7 +982,7 @@
       "symbol": "300433.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:300438": {
       "price": 55.05,
@@ -992,7 +991,7 @@
       "symbol": "300438.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300442": {
       "price": 68.58,
@@ -1001,7 +1000,7 @@
       "symbol": "300442.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:300450": {
       "price": 31.89,
@@ -1010,7 +1009,7 @@
       "symbol": "300450.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300454": {
       "price": 118.91,
@@ -1019,7 +1018,7 @@
       "symbol": "300454.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300458": {
       "price": 41.71,
@@ -1028,7 +1027,7 @@
       "symbol": "300458.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300474": {
       "price": 53.62,
@@ -1037,7 +1036,7 @@
       "symbol": "300474.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:300476": {
       "price": 240.4,
@@ -1046,7 +1045,7 @@
       "symbol": "300476.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:300496": {
       "price": 60.25,
@@ -1055,7 +1054,7 @@
       "symbol": "300496.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:300499": {
       "price": 28.17,
@@ -1064,7 +1063,7 @@
       "symbol": "300499.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:300502": {
       "price": 508.8,
@@ -1073,7 +1072,7 @@
       "symbol": "300502.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:300503": {
       "price": 68.83,
@@ -1082,7 +1081,7 @@
       "symbol": "300503.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300507": {
       "price": 5.96,
@@ -1091,7 +1090,7 @@
       "symbol": "300507.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:300548": {
       "price": 168.98,
@@ -1100,7 +1099,7 @@
       "symbol": "300548.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:300552": {
       "price": 18.4,
@@ -1109,7 +1108,7 @@
       "symbol": "300552.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:300567": {
       "price": 225.54,
@@ -1118,7 +1117,7 @@
       "symbol": "300567.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:300570": {
       "price": 145.53,
@@ -1127,7 +1126,7 @@
       "symbol": "300570.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:300580": {
       "price": 19.34,
@@ -1136,7 +1135,7 @@
       "symbol": "300580.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300602": {
       "price": 37.78,
@@ -1145,7 +1144,7 @@
       "symbol": "300602.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:300604": {
       "price": 309.05,
@@ -1154,7 +1153,7 @@
       "symbol": "300604.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:300607": {
       "price": 29.4,
@@ -1163,7 +1162,7 @@
       "symbol": "300607.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:300620": {
       "price": 234.39,
@@ -1172,7 +1171,7 @@
       "symbol": "300620.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:300624": {
       "price": 47.11,
@@ -1181,7 +1180,7 @@
       "symbol": "300624.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300655": {
       "price": 12.05,
@@ -1190,7 +1189,7 @@
       "symbol": "300655.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:300660": {
       "price": 25.45,
@@ -1199,7 +1198,7 @@
       "symbol": "300660.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:300666": {
       "price": 235.08,
@@ -1208,7 +1207,7 @@
       "symbol": "300666.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:300693": {
       "price": 34.66,
@@ -1217,7 +1216,7 @@
       "symbol": "300693.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:300699": {
       "price": 24.6,
@@ -1226,7 +1225,7 @@
       "symbol": "300699.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300738": {
       "price": 22.92,
@@ -1235,7 +1234,7 @@
       "symbol": "300738.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:300748": {
       "price": 25.69,
@@ -1244,7 +1243,7 @@
       "symbol": "300748.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300750": {
       "price": 372.26,
@@ -1253,7 +1252,7 @@
       "symbol": "300750.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300777": {
       "price": 22.51,
@@ -1262,7 +1261,7 @@
       "symbol": "300777.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:300990": {
       "price": 95.94,
@@ -1271,7 +1270,7 @@
       "symbol": "300990.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:301018": {
       "price": 91.1,
@@ -1280,7 +1279,7 @@
       "symbol": "301018.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:301165": {
       "price": 126.0,
@@ -1289,7 +1288,7 @@
       "symbol": "301165.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:301205": {
       "price": 214.11,
@@ -1298,7 +1297,7 @@
       "symbol": "301205.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:301236": {
       "price": 39.24,
@@ -1307,7 +1306,7 @@
       "symbol": "301236.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:301269": {
       "price": 98.13,
@@ -1316,7 +1315,7 @@
       "symbol": "301269.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:301308": {
       "price": 388.45,
@@ -1325,7 +1324,7 @@
       "symbol": "301308.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:301413": {
       "price": 55.9,
@@ -1334,7 +1333,7 @@
       "symbol": "301413.SZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:600011": {
       "price": 7.29,
@@ -1343,7 +1342,7 @@
       "symbol": "600011.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:10+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:600025": {
       "price": 10.22,
@@ -1352,7 +1351,7 @@
       "symbol": "600025.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:600027": {
       "price": 4.79,
@@ -1361,7 +1360,7 @@
       "symbol": "600027.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:600089": {
       "price": 19.78,
@@ -1370,7 +1369,7 @@
       "symbol": "600089.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:600100": {
       "price": 7.04,
@@ -1379,7 +1378,7 @@
       "symbol": "600100.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:600111": {
       "price": 39.12,
@@ -1388,7 +1387,7 @@
       "symbol": "600111.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:600183": {
       "price": 126.0,
@@ -1397,7 +1396,7 @@
       "symbol": "600183.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:600206": {
       "price": 40.64,
@@ -1406,7 +1405,7 @@
       "symbol": "600206.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:600312": {
       "price": 18.88,
@@ -1415,7 +1414,7 @@
       "symbol": "600312.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:600330": {
       "price": 19.15,
@@ -1424,7 +1423,7 @@
       "symbol": "600330.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:600366": {
       "price": 10.78,
@@ -1433,7 +1432,7 @@
       "symbol": "600366.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:600392": {
       "price": 21.02,
@@ -1442,7 +1441,7 @@
       "symbol": "600392.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:600399": {
       "price": 3.83,
@@ -1451,7 +1450,7 @@
       "symbol": "600399.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:600405": {
       "price": 3.82,
@@ -1460,7 +1459,7 @@
       "symbol": "600405.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:600406": {
       "price": 23.75,
@@ -1469,7 +1468,7 @@
       "symbol": "600406.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:600456": {
       "price": 27.52,
@@ -1478,7 +1477,7 @@
       "symbol": "600456.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:600460": {
       "price": 33.19,
@@ -1487,7 +1486,7 @@
       "symbol": "600460.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:600481": {
       "price": 3.77,
@@ -1496,7 +1495,7 @@
       "symbol": "600481.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:600487": {
       "price": 55.12,
@@ -1505,7 +1504,7 @@
       "symbol": "600487.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:600498": {
       "price": 39.04,
@@ -1514,7 +1513,7 @@
       "symbol": "600498.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:600522": {
       "price": 32.5,
@@ -1523,7 +1522,7 @@
       "symbol": "600522.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:600549": {
       "price": 49.56,
@@ -1532,7 +1531,7 @@
       "symbol": "600549.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:600580": {
       "price": 29.16,
@@ -1541,7 +1540,7 @@
       "symbol": "600580.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:600584": {
       "price": 85.78,
@@ -1550,7 +1549,7 @@
       "symbol": "600584.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:600588": {
       "price": 9.56,
@@ -1559,7 +1558,7 @@
       "symbol": "600588.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:600667": {
       "price": 16.69,
@@ -1568,7 +1567,7 @@
       "symbol": "600667.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:600703": {
       "price": 12.29,
@@ -1577,7 +1576,7 @@
       "symbol": "600703.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:600741": {
       "price": 17.2,
@@ -1586,7 +1585,7 @@
       "symbol": "600741.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:600765": {
       "price": 13.1,
@@ -1595,7 +1594,7 @@
       "symbol": "600765.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:600845": {
       "price": 18.59,
@@ -1604,7 +1603,7 @@
       "symbol": "600845.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:600886": {
       "price": 15.3,
@@ -1613,7 +1612,7 @@
       "symbol": "600886.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:600900": {
       "price": 29.09,
@@ -1622,7 +1621,7 @@
       "symbol": "600900.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:600905": {
       "price": 3.93,
@@ -1631,7 +1630,7 @@
       "symbol": "600905.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:10+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:601100": {
       "price": 104.08,
@@ -1640,7 +1639,7 @@
       "symbol": "601100.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:601138": {
       "price": 60.71,
@@ -1649,7 +1648,7 @@
       "symbol": "601138.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:601179": {
       "price": 12.41,
@@ -1658,7 +1657,7 @@
       "symbol": "601179.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:601360": {
       "price": 9.09,
@@ -1667,7 +1666,7 @@
       "symbol": "601360.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:601567": {
       "price": 14.94,
@@ -1676,7 +1675,7 @@
       "symbol": "601567.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:601615": {
       "price": 11.46,
@@ -1685,7 +1684,7 @@
       "symbol": "601615.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:10+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:601868": {
       "price": 2.58,
@@ -1694,7 +1693,7 @@
       "symbol": "601868.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:601869": {
       "price": 366.05,
@@ -1703,7 +1702,7 @@
       "symbol": "601869.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:601877": {
       "price": 24.58,
@@ -1712,7 +1711,7 @@
       "symbol": "601877.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:601985": {
       "price": 9.07,
@@ -1721,7 +1720,7 @@
       "symbol": "601985.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:601991": {
       "price": 6.95,
@@ -1730,7 +1729,7 @@
       "symbol": "601991.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:603005": {
       "price": 31.71,
@@ -1739,7 +1738,7 @@
       "symbol": "603005.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:603019": {
       "price": 102.15,
@@ -1748,7 +1747,7 @@
       "symbol": "603019.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:603042": {
       "price": 10.74,
@@ -1757,7 +1756,7 @@
       "symbol": "603042.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:603083": {
       "price": 167.06,
@@ -1766,7 +1765,7 @@
       "symbol": "603083.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:603118": {
       "price": 16.42,
@@ -1775,7 +1774,7 @@
       "symbol": "603118.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:603197": {
       "price": 28.22,
@@ -1784,7 +1783,7 @@
       "symbol": "603197.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:603198": {
       "price": 36.24,
@@ -1793,7 +1792,7 @@
       "symbol": "603198.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:603228": {
       "price": 76.18,
@@ -1802,7 +1801,7 @@
       "symbol": "603228.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:603297": {
       "price": 91.99,
@@ -1811,7 +1810,7 @@
       "symbol": "603297.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:603416": {
       "price": 46.5,
@@ -1820,7 +1819,7 @@
       "symbol": "603416.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:603444": {
       "price": 356.8,
@@ -1829,7 +1828,7 @@
       "symbol": "603444.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:603496": {
       "price": 26.01,
@@ -1838,7 +1837,7 @@
       "symbol": "603496.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:603501": {
       "price": 101.98,
@@ -1847,7 +1846,7 @@
       "symbol": "603501.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:603530": {
       "price": 42.87,
@@ -1856,7 +1855,7 @@
       "symbol": "603530.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:603533": {
       "price": 18.91,
@@ -1865,7 +1864,7 @@
       "symbol": "603533.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:603638": {
       "price": 18.94,
@@ -1874,7 +1873,7 @@
       "symbol": "603638.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:603659": {
       "price": 22.75,
@@ -1883,7 +1882,7 @@
       "symbol": "603659.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:603662": {
       "price": 49.11,
@@ -1892,7 +1891,7 @@
       "symbol": "603662.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:603667": {
       "price": 53.62,
@@ -1901,7 +1900,7 @@
       "symbol": "603667.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:603688": {
       "price": 47.59,
@@ -1910,7 +1909,7 @@
       "symbol": "603688.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:603690": {
       "price": 21.26,
@@ -1919,7 +1918,7 @@
       "symbol": "603690.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:603728": {
       "price": 49.06,
@@ -1928,7 +1927,7 @@
       "symbol": "603728.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:603757": {
       "price": 62.82,
@@ -1937,7 +1936,7 @@
       "symbol": "603757.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:603773": {
       "price": 83.48,
@@ -1946,7 +1945,7 @@
       "symbol": "603773.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:603881": {
       "price": 26.81,
@@ -1955,7 +1954,7 @@
       "symbol": "603881.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:603893": {
       "price": 228.86,
@@ -1964,7 +1963,7 @@
       "symbol": "603893.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:603915": {
       "price": 12.31,
@@ -1973,7 +1972,7 @@
       "symbol": "603915.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:603920": {
       "price": 34.46,
@@ -1982,7 +1981,7 @@
       "symbol": "603920.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:603936": {
       "price": 13.71,
@@ -1991,7 +1990,7 @@
       "symbol": "603936.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:603986": {
       "price": 470.0,
@@ -2000,7 +1999,7 @@
       "symbol": "603986.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:605028": {
       "price": 24.37,
@@ -2009,7 +2008,7 @@
       "symbol": "605028.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:605333": {
       "price": 15.8,
@@ -2018,7 +2017,7 @@
       "symbol": "605333.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:605358": {
       "price": 43.28,
@@ -2027,7 +2026,7 @@
       "symbol": "605358.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688003": {
       "price": 76.44,
@@ -2036,7 +2035,7 @@
       "symbol": "688003.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688008": {
       "price": 223.0,
@@ -2045,7 +2044,7 @@
       "symbol": "688008.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688010": {
       "price": 26.3,
@@ -2054,7 +2053,7 @@
       "symbol": "688010.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:688012": {
       "price": 392.99,
@@ -2063,7 +2062,7 @@
       "symbol": "688012.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688017": {
       "price": 316.7,
@@ -2072,7 +2071,7 @@
       "symbol": "688017.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:688019": {
       "price": 253.01,
@@ -2081,7 +2080,7 @@
       "symbol": "688019.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688023": {
       "price": 37.59,
@@ -2090,7 +2089,7 @@
       "symbol": "688023.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688036": {
       "price": 60.05,
@@ -2099,7 +2098,7 @@
       "symbol": "688036.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688037": {
       "price": 348.0,
@@ -2108,7 +2107,7 @@
       "symbol": "688037.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688041": {
       "price": 331.6,
@@ -2117,7 +2116,7 @@
       "symbol": "688041.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:688047": {
       "price": 114.03,
@@ -2126,7 +2125,7 @@
       "symbol": "688047.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:688048": {
       "price": 300.03,
@@ -2135,7 +2134,7 @@
       "symbol": "688048.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:688063": {
       "price": 40.79,
@@ -2144,7 +2143,7 @@
       "symbol": "688063.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:688072": {
       "price": 791.08,
@@ -2153,7 +2152,7 @@
       "symbol": "688072.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688082": {
       "price": 310.62,
@@ -2162,7 +2161,7 @@
       "symbol": "688082.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688083": {
       "price": 45.94,
@@ -2171,7 +2170,7 @@
       "symbol": "688083.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:688088": {
       "price": 31.76,
@@ -2180,7 +2179,7 @@
       "symbol": "688088.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:688095": {
       "price": 52.55,
@@ -2189,7 +2188,7 @@
       "symbol": "688095.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:688099": {
       "price": 94.2,
@@ -2198,7 +2197,7 @@
       "symbol": "688099.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:688106": {
       "price": 29.45,
@@ -2207,7 +2206,7 @@
       "symbol": "688106.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688110": {
       "price": 120.15,
@@ -2216,7 +2215,7 @@
       "symbol": "688110.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688111": {
       "price": 239.92,
@@ -2225,7 +2224,7 @@
       "symbol": "688111.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:688112": {
       "price": 51.37,
@@ -2234,7 +2233,7 @@
       "symbol": "688112.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:688120": {
       "price": 273.0,
@@ -2243,7 +2242,7 @@
       "symbol": "688120.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688123": {
       "price": 132.41,
@@ -2252,7 +2251,7 @@
       "symbol": "688123.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688126": {
       "price": 26.6,
@@ -2261,7 +2260,7 @@
       "symbol": "688126.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688158": {
       "price": 31.18,
@@ -2270,7 +2269,7 @@
       "symbol": "688158.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:688160": {
       "price": 103.0,
@@ -2279,7 +2278,7 @@
       "symbol": "688160.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:688167": {
       "price": 220.95,
@@ -2288,7 +2287,7 @@
       "symbol": "688167.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:688183": {
       "price": 101.0,
@@ -2297,7 +2296,7 @@
       "symbol": "688183.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:688188": {
       "price": 97.04,
@@ -2306,7 +2305,7 @@
       "symbol": "688188.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:688195": {
       "price": 126.01,
@@ -2315,7 +2314,7 @@
       "symbol": "688195.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:688200": {
       "price": 369.0,
@@ -2324,7 +2323,7 @@
       "symbol": "688200.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688205": {
       "price": 133.2,
@@ -2333,7 +2332,7 @@
       "symbol": "688205.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:688206": {
       "price": 36.29,
@@ -2342,7 +2341,7 @@
       "symbol": "688206.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688207": {
       "price": 15.56,
@@ -2351,7 +2350,7 @@
       "symbol": "688207.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:688213": {
       "price": 91.6,
@@ -2360,7 +2359,7 @@
       "symbol": "688213.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688216": {
       "price": 30.13,
@@ -2369,7 +2368,7 @@
       "symbol": "688216.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:688223": {
       "price": 4.16,
@@ -2378,7 +2377,7 @@
       "symbol": "688223.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:35+00:00"
     },
     "A:688248": {
       "price": 42.8,
@@ -2387,7 +2386,7 @@
       "symbol": "688248.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688256": {
       "price": 1310.0,
@@ -2396,7 +2395,7 @@
       "symbol": "688256.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:688262": {
       "price": 26.12,
@@ -2405,7 +2404,7 @@
       "symbol": "688262.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688268": {
       "price": 148.34,
@@ -2414,7 +2413,7 @@
       "symbol": "688268.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688295": {
       "price": 39.41,
@@ -2423,7 +2422,7 @@
       "symbol": "688295.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:688313": {
       "price": 116.3,
@@ -2432,7 +2431,7 @@
       "symbol": "688313.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "A:688320": {
       "price": 27.12,
@@ -2441,7 +2440,7 @@
       "symbol": "688320.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "A:688321": {
       "price": 29.75,
@@ -2450,7 +2449,7 @@
       "symbol": "688321.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:688322": {
       "price": 93.6,
@@ -2459,7 +2458,7 @@
       "symbol": "688322.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688327": {
       "price": 10.45,
@@ -2468,7 +2467,7 @@
       "symbol": "688327.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:688337": {
       "price": 41.36,
@@ -2477,7 +2476,7 @@
       "symbol": "688337.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:688347": {
       "price": 390.06,
@@ -2486,7 +2485,7 @@
       "symbol": "688347.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688361": {
       "price": 357.0,
@@ -2495,7 +2494,7 @@
       "symbol": "688361.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688362": {
       "price": 85.03,
@@ -2504,7 +2503,7 @@
       "symbol": "688362.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:688396": {
       "price": 63.1,
@@ -2513,7 +2512,7 @@
       "symbol": "688396.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688400": {
       "price": 44.64,
@@ -2522,7 +2521,7 @@
       "symbol": "688400.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688475": {
       "price": 28.75,
@@ -2531,7 +2530,7 @@
       "symbol": "688475.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688498": {
       "price": 1415.0,
@@ -2540,7 +2539,7 @@
       "symbol": "688498.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:688516": {
       "price": 38.33,
@@ -2549,7 +2548,7 @@
       "symbol": "688516.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:688521": {
       "price": 239.47,
@@ -2558,7 +2557,7 @@
       "symbol": "688521.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "A:688525": {
       "price": 248.28,
@@ -2567,7 +2566,7 @@
       "symbol": "688525.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688567": {
       "price": 9.28,
@@ -2576,7 +2575,7 @@
       "symbol": "688567.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "A:688589": {
       "price": 16.68,
@@ -2585,7 +2584,7 @@
       "symbol": "688589.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "A:688668": {
       "price": 235.86,
@@ -2594,7 +2593,7 @@
       "symbol": "688668.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "A:688676": {
       "price": 63.26,
@@ -2603,7 +2602,7 @@
       "symbol": "688676.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "A:688766": {
       "price": 435.0,
@@ -2612,7 +2611,7 @@
       "symbol": "688766.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "A:688787": {
       "price": 97.02,
@@ -2621,7 +2620,7 @@
       "symbol": "688787.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "A:688808": {
       "price": 1888.08,
@@ -2630,7 +2629,7 @@
       "symbol": "688808.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "A:688981": {
       "price": 155.59,
@@ -2639,7 +2638,7 @@
       "symbol": "688981.SS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "H:00020": {
       "price": 1.4,
@@ -2648,7 +2647,7 @@
       "symbol": "0020.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:00100": {
       "price": 197.0,
@@ -2657,7 +2656,7 @@
       "symbol": "0100.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:00148": {
       "price": 51.25,
@@ -2666,7 +2665,7 @@
       "symbol": "0148.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "H:00241": {
       "price": 3.4,
@@ -2675,7 +2674,7 @@
       "symbol": "0241.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:00268": {
       "price": 7.43,
@@ -2684,7 +2683,7 @@
       "symbol": "0268.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:00522": {
       "price": 169.1,
@@ -2693,7 +2692,7 @@
       "symbol": "0522.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "H:00700": {
       "price": 440.6,
@@ -2702,7 +2701,7 @@
       "symbol": "0700.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:00728": {
       "price": 4.58,
@@ -2711,7 +2710,7 @@
       "symbol": "0728.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:00762": {
       "price": 6.54,
@@ -2720,7 +2719,7 @@
       "symbol": "0762.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:00763": {
       "price": 25.6,
@@ -2729,7 +2728,7 @@
       "symbol": "0763.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "H:00769": {
       "price": 0.7,
@@ -2738,7 +2737,7 @@
       "symbol": "0769.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "H:00772": {
       "price": 19.0,
@@ -2747,7 +2746,7 @@
       "symbol": "0772.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:00836": {
       "price": 19.31,
@@ -2756,7 +2755,7 @@
       "symbol": "0836.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:00902": {
       "price": 6.06,
@@ -2765,7 +2764,7 @@
       "symbol": "0902.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:00916": {
       "price": 5.65,
@@ -2774,7 +2773,7 @@
       "symbol": "0916.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:00941": {
       "price": 80.55,
@@ -2783,7 +2782,7 @@
       "symbol": "0941.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:00968": {
       "price": 2.17,
@@ -2792,7 +2791,7 @@
       "symbol": "0968.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:00981": {
       "price": 72.9,
@@ -2801,7 +2800,7 @@
       "symbol": "0981.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "H:00991": {
       "price": 2.56,
@@ -2810,7 +2809,7 @@
       "symbol": "0991.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:00992": {
       "price": 24.1,
@@ -2819,7 +2818,7 @@
       "symbol": "0992.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "H:01024": {
       "price": 42.7,
@@ -2828,7 +2827,7 @@
       "symbol": "1024.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:01070": {
       "price": 15.21,
@@ -2837,7 +2836,7 @@
       "symbol": "1070.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:01071": {
       "price": 4.15,
@@ -2846,7 +2845,7 @@
       "symbol": "1071.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:01072": {
       "price": 22.0,
@@ -2855,7 +2854,7 @@
       "symbol": "1072.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:01211": {
       "price": 87.85,
@@ -2864,7 +2863,7 @@
       "symbol": "1211.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:01347": {
       "price": 161.5,
@@ -2873,7 +2872,7 @@
       "symbol": "1347.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "H:01357": {
       "price": 4.08,
@@ -2882,7 +2881,7 @@
       "symbol": "1357.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:01385": {
       "price": 26.76,
@@ -2891,7 +2890,7 @@
       "symbol": "1385.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "H:01478": {
       "price": 7.03,
@@ -2900,7 +2899,7 @@
       "symbol": "1478.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:01772": {
       "price": 36.86,
@@ -2909,7 +2908,7 @@
       "symbol": "1772.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "H:01798": {
       "price": 1.33,
@@ -2918,7 +2917,7 @@
       "symbol": "1798.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:01810": {
       "price": 26.68,
@@ -2927,7 +2926,7 @@
       "symbol": "1810.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:01816": {
       "price": 2.91,
@@ -2936,7 +2935,7 @@
       "symbol": "1816.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:01833": {
       "price": 7.55,
@@ -2945,7 +2944,7 @@
       "symbol": "1833.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:01888": {
       "price": 40.26,
@@ -2954,7 +2953,7 @@
       "symbol": "1888.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "H:02013": {
       "price": 1.18,
@@ -2963,7 +2962,7 @@
       "symbol": "2013.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:02018": {
       "price": 39.2,
@@ -2972,7 +2971,7 @@
       "symbol": "2018.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "H:02038": {
       "price": 19.38,
@@ -2981,7 +2980,7 @@
       "symbol": "2038.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "H:02158": {
       "price": 4.83,
@@ -2990,7 +2989,7 @@
       "symbol": "2158.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:02208": {
       "price": 9.75,
@@ -2999,7 +2998,7 @@
       "symbol": "2208.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:02380": {
       "price": 2.89,
@@ -3008,7 +3007,7 @@
       "symbol": "2380.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:02382": {
       "price": 58.25,
@@ -3017,7 +3016,7 @@
       "symbol": "2382.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:02498": {
       "price": 22.98,
@@ -3026,7 +3025,7 @@
       "symbol": "2498.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:02513": {
       "price": 1175.0,
@@ -3035,7 +3034,7 @@
       "symbol": "2513.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:02533": {
       "price": 11.7,
@@ -3044,7 +3043,7 @@
       "symbol": "2533.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "H:02727": {
       "price": 3.25,
@@ -3053,7 +3052,7 @@
       "symbol": "2727.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:03690": {
       "price": 83.65,
@@ -3062,7 +3061,7 @@
       "symbol": "3690.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:03888": {
       "price": 24.56,
@@ -3071,7 +3070,7 @@
       "symbol": "3888.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:03896": {
       "price": 5.15,
@@ -3080,7 +3079,7 @@
       "symbol": "3896.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:03898": {
       "price": 33.36,
@@ -3089,7 +3088,7 @@
       "symbol": "3898.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "H:03931": {
       "price": 16.88,
@@ -3098,7 +3097,7 @@
       "symbol": "3931.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "H:06088": {
       "price": 5.47,
@@ -3107,7 +3106,7 @@
       "symbol": "6088.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "H:06618": {
       "price": 37.68,
@@ -3116,7 +3115,7 @@
       "symbol": "6618.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "H:06869": {
       "price": 127.4,
@@ -3125,7 +3124,7 @@
       "symbol": "6869.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "H:09618": {
       "price": 118.6,
@@ -3134,7 +3133,7 @@
       "symbol": "9618.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:09626": {
       "price": 138.7,
@@ -3143,7 +3142,7 @@
       "symbol": "9626.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:09660": {
       "price": 4.75,
@@ -3152,7 +3151,7 @@
       "symbol": "9660.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "H:09696": {
       "price": 32.18,
@@ -3161,7 +3160,7 @@
       "symbol": "9696.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "H:09698": {
       "price": 32.0,
@@ -3170,7 +3169,7 @@
       "symbol": "9698.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "H:09880": {
       "price": 83.45,
@@ -3179,7 +3178,7 @@
       "symbol": "9880.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "H:09888": {
       "price": 104.4,
@@ -3188,7 +3187,7 @@
       "symbol": "9888.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:09988": {
       "price": 113.6,
@@ -3197,7 +3196,7 @@
       "symbol": "9988.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "H:09999": {
       "price": 193.0,
@@ -3206,7 +3205,7 @@
       "symbol": "9999.HK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "JP:285A": {
       "price": 64270.0,
@@ -3215,7 +3214,7 @@
       "symbol": "285A.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:3402": {
       "price": 1169.5,
@@ -3224,7 +3223,7 @@
       "symbol": "3402.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "JP:3407": {
       "price": 1857.0,
@@ -3233,7 +3232,7 @@
       "symbol": "3407.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "JP:3436": {
       "price": 3785.0,
@@ -3242,7 +3241,7 @@
       "symbol": "3436.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "JP:4004": {
       "price": 15250.0,
@@ -3251,7 +3250,7 @@
       "symbol": "4004.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "JP:4062": {
       "price": 18250.0,
@@ -3260,7 +3259,7 @@
       "symbol": "4062.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "JP:4063": {
       "price": 7075.0,
@@ -3269,7 +3268,7 @@
       "symbol": "4063.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "JP:4186": {
       "price": 10290.0,
@@ -3278,7 +3277,7 @@
       "symbol": "4186.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "JP:4751": {
       "price": 1412.0,
@@ -3287,7 +3286,7 @@
       "symbol": "4751.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "JP:4755": {
       "price": 790.3,
@@ -3296,7 +3295,7 @@
       "symbol": "4755.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "JP:4901": {
       "price": 3665.0,
@@ -3305,7 +3304,7 @@
       "symbol": "4901.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "JP:5201": {
       "price": 6344.0,
@@ -3314,7 +3313,7 @@
       "symbol": "5201.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "JP:5801": {
       "price": 3525.0,
@@ -3323,7 +3322,7 @@
       "symbol": "5801.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "JP:5802": {
       "price": 2451.0,
@@ -3332,7 +3331,7 @@
       "symbol": "5802.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "JP:5803": {
       "price": 4751.0,
@@ -3341,7 +3340,7 @@
       "symbol": "5803.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "JP:6146": {
       "price": 68590.0,
@@ -3350,7 +3349,7 @@
       "symbol": "6146.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:6268": {
       "price": 4938.0,
@@ -3359,7 +3358,7 @@
       "symbol": "6268.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "JP:6273": {
       "price": 71850.0,
@@ -3368,7 +3367,7 @@
       "symbol": "6273.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "JP:6324": {
       "price": 6880.0,
@@ -3377,7 +3376,7 @@
       "symbol": "6324.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "JP:6367": {
       "price": 24240.0,
@@ -3386,7 +3385,7 @@
       "symbol": "6367.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "JP:6472": {
       "price": 385.0,
@@ -3395,7 +3394,7 @@
       "symbol": "6472.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "JP:6481": {
       "price": 7058.0,
@@ -3404,7 +3403,7 @@
       "symbol": "6481.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "JP:6501": {
       "price": 4807.0,
@@ -3413,7 +3412,7 @@
       "symbol": "6501.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "JP:6503": {
       "price": 5629.0,
@@ -3422,7 +3421,7 @@
       "symbol": "6503.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "JP:6506": {
       "price": 5213.0,
@@ -3431,7 +3430,7 @@
       "symbol": "6506.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "JP:6526": {
       "price": 2486.5,
@@ -3440,7 +3439,7 @@
       "symbol": "6526.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "JP:6594": {
       "price": 2480.0,
@@ -3449,7 +3448,7 @@
       "symbol": "6594.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "JP:6645": {
       "price": 5463.0,
@@ -3458,7 +3457,7 @@
       "symbol": "6645.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "JP:6701": {
       "price": 4352.0,
@@ -3467,7 +3466,7 @@
       "symbol": "6701.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "JP:6702": {
       "price": 3311.0,
@@ -3476,7 +3475,7 @@
       "symbol": "6702.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "JP:6723": {
       "price": 4175.0,
@@ -3485,7 +3484,7 @@
       "symbol": "6723.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:6728": {
       "price": 9800.0,
@@ -3494,7 +3493,7 @@
       "symbol": "6728.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:6752": {
       "price": 4095.0,
@@ -3503,7 +3502,7 @@
       "symbol": "6752.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "JP:6758": {
       "price": 3444.0,
@@ -3512,7 +3511,7 @@
       "symbol": "6758.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "JP:6806": {
       "price": 28150.0,
@@ -3521,7 +3520,7 @@
       "symbol": "6806.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "JP:6807": {
       "price": 2471.0,
@@ -3530,7 +3529,7 @@
       "symbol": "6807.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "JP:6857": {
       "price": 29585.0,
@@ -3539,7 +3538,7 @@
       "symbol": "6857.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:6861": {
       "price": 72110.0,
@@ -3548,7 +3547,7 @@
       "symbol": "6861.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "JP:6920": {
       "price": 42990.0,
@@ -3557,7 +3556,7 @@
       "symbol": "6920.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:6954": {
       "price": 6873.0,
@@ -3566,7 +3565,7 @@
       "symbol": "6954.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "JP:6981": {
       "price": 8317.0,
@@ -3575,7 +3574,7 @@
       "symbol": "6981.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "JP:7203": {
       "price": 2939.0,
@@ -3584,7 +3583,7 @@
       "symbol": "7203.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "JP:7729": {
       "price": 18255.0,
@@ -3593,7 +3592,7 @@
       "symbol": "7729.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:7731": {
       "price": 2212.5,
@@ -3602,7 +3601,7 @@
       "symbol": "7731.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:7735": {
       "price": 16500.0,
@@ -3611,7 +3610,7 @@
       "symbol": "7735.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:8035": {
       "price": 65960.0,
@@ -3620,7 +3619,7 @@
       "symbol": "8035.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "JP:9432": {
       "price": 152.0,
@@ -3629,7 +3628,7 @@
       "symbol": "9432.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "JP:9433": {
       "price": 2875.5,
@@ -3638,7 +3637,7 @@
       "symbol": "9433.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "JP:9984": {
       "price": 5703.0,
@@ -3647,7 +3646,7 @@
       "symbol": "9984.T",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "KR:000660": {
       "price": 1830000.0,
@@ -3656,7 +3655,7 @@
       "symbol": "000660.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:000990": {
       "price": 105900.0,
@@ -3665,7 +3664,7 @@
       "symbol": "000990.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:001440": {
       "price": 27450.0,
@@ -3674,7 +3673,7 @@
       "symbol": "001440.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "KR:005290": {
       "price": 42300.0,
@@ -3683,7 +3682,7 @@
       "symbol": "005290.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "KR:005930": {
       "price": 260500.0,
@@ -3692,7 +3691,7 @@
       "symbol": "005930.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:006260": {
       "price": 284500.0,
@@ -3701,7 +3700,7 @@
       "symbol": "006260.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "KR:006400": {
       "price": 419000.0,
@@ -3710,7 +3709,7 @@
       "symbol": "006400.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "KR:007660": {
       "price": 91600.0,
@@ -3719,7 +3718,7 @@
       "symbol": "007660.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "KR:010120": {
       "price": 190600.0,
@@ -3728,7 +3727,7 @@
       "symbol": "010120.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "KR:018260": {
       "price": 196000.0,
@@ -3737,7 +3736,7 @@
       "symbol": "018260.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "KR:030200": {
       "price": 52300.0,
@@ -3746,7 +3745,7 @@
       "symbol": "030200.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "KR:033640": {
       "price": 18350.0,
@@ -3755,7 +3754,7 @@
       "symbol": "033640.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "KR:035420": {
       "price": 196900.0,
@@ -3764,7 +3763,7 @@
       "symbol": "035420.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "KR:035720": {
       "price": 35500.0,
@@ -3773,7 +3772,7 @@
       "symbol": "035720.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "KR:036540": {
       "price": 5470.0,
@@ -3782,7 +3781,7 @@
       "symbol": "036540.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "KR:042700": {
       "price": 215000.0,
@@ -3791,7 +3790,7 @@
       "symbol": "042700.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:058470": {
       "price": 71800.0,
@@ -3800,7 +3799,7 @@
       "symbol": "058470.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:061970": {
       "price": 3915.0,
@@ -3809,7 +3808,7 @@
       "symbol": "061970.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "KR:064350": {
       "price": 155800.0,
@@ -3818,7 +3817,7 @@
       "symbol": "064350.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "KR:067310": {
       "price": 35500.0,
@@ -3827,7 +3826,7 @@
       "symbol": "067310.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "KR:090360": {
       "price": 66200.0,
@@ -3836,7 +3835,7 @@
       "symbol": "090360.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "KR:095340": {
       "price": 140500.0,
@@ -3845,7 +3844,7 @@
       "symbol": "095340.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:131290": {
       "price": 240000.0,
@@ -3854,7 +3853,7 @@
       "symbol": "131290.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "KR:240810": {
       "price": 111700.0,
@@ -3863,7 +3862,7 @@
       "symbol": "240810.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:267260": {
       "price": 795000.0,
@@ -3872,7 +3871,7 @@
       "symbol": "267260.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "KR:277810": {
       "price": 478500.0,
@@ -3881,7 +3880,7 @@
       "symbol": "277810.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "KR:298040": {
       "price": 2679000.0,
@@ -3890,7 +3889,7 @@
       "symbol": "298040.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "KR:319660": {
       "price": 156700.0,
@@ -3899,7 +3898,7 @@
       "symbol": "319660.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:353200": {
       "price": 119000.0,
@@ -3908,7 +3907,7 @@
       "symbol": "353200.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "KR:357780": {
       "price": 276500.0,
@@ -3917,7 +3916,7 @@
       "symbol": "357780.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "KR:373220": {
       "price": 321000.0,
@@ -3926,7 +3925,7 @@
       "symbol": "373220.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "KR:403870": {
       "price": 38800.0,
@@ -3935,7 +3934,7 @@
       "symbol": "403870.KQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "KR:454910": {
       "price": 67600.0,
@@ -3944,7 +3943,7 @@
       "symbol": "454910.KS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "TW:1504": {
       "price": 68.1,
@@ -3953,7 +3952,7 @@
       "symbol": "1504.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "TW:1590": {
       "price": 1430.0,
@@ -3962,7 +3961,7 @@
       "symbol": "1590.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "TW:2049": {
       "price": 320.5,
@@ -3971,7 +3970,7 @@
       "symbol": "2049.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "TW:2301": {
       "price": 218.0,
@@ -3980,7 +3979,7 @@
       "symbol": "2301.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:2303": {
       "price": 139.0,
@@ -3989,7 +3988,7 @@
       "symbol": "2303.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:2308": {
       "price": 1880.0,
@@ -3998,7 +3997,7 @@
       "symbol": "2308.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:2313": {
       "price": 208.0,
@@ -4007,7 +4006,7 @@
       "symbol": "2313.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:2317": {
       "price": 251.5,
@@ -4016,7 +4015,7 @@
       "symbol": "2317.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:2330": {
       "price": 2400.0,
@@ -4025,7 +4024,7 @@
       "symbol": "2330.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:2344": {
       "price": 171.0,
@@ -4034,7 +4033,7 @@
       "symbol": "2344.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:2345": {
       "price": 2285.0,
@@ -4043,7 +4042,7 @@
       "symbol": "2345.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "TW:2353": {
       "price": 30.55,
@@ -4052,7 +4051,7 @@
       "symbol": "2353.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:2356": {
       "price": 61.7,
@@ -4061,7 +4060,7 @@
       "symbol": "2356.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:2357": {
       "price": 757.0,
@@ -4070,7 +4069,7 @@
       "symbol": "2357.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:2360": {
       "price": 2125.0,
@@ -4079,7 +4078,7 @@
       "symbol": "2360.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:2368": {
       "price": 940.0,
@@ -4088,7 +4087,7 @@
       "symbol": "2368.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:2379": {
       "price": 743.0,
@@ -4097,7 +4096,7 @@
       "symbol": "2379.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:2382": {
       "price": 329.0,
@@ -4106,7 +4105,7 @@
       "symbol": "2382.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:2395": {
       "price": 596.0,
@@ -4115,7 +4114,7 @@
       "symbol": "2395.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:2408": {
       "price": 445.5,
@@ -4124,7 +4123,7 @@
       "symbol": "2408.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:2449": {
       "price": 295.0,
@@ -4133,7 +4132,7 @@
       "symbol": "2449.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:2454": {
       "price": 3850.0,
@@ -4142,7 +4141,7 @@
       "symbol": "2454.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:3008": {
       "price": 4000.0,
@@ -4151,7 +4150,7 @@
       "symbol": "3008.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:3017": {
       "price": 2265.0,
@@ -4160,7 +4159,7 @@
       "symbol": "3017.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:3035": {
       "price": 199.0,
@@ -4169,7 +4168,7 @@
       "symbol": "3035.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:3037": {
       "price": 907.0,
@@ -4178,7 +4177,7 @@
       "symbol": "3037.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:3163": {
       "price": 730.0,
@@ -4187,7 +4186,7 @@
       "symbol": "3163.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "TW:3189": {
       "price": 796.0,
@@ -4196,7 +4195,7 @@
       "symbol": "3189.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:3231": {
       "price": 164.0,
@@ -4205,7 +4204,7 @@
       "symbol": "3231.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:3260": {
       "price": 379.5,
@@ -4214,7 +4213,7 @@
       "symbol": "3260.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:3264": {
       "price": 217.0,
@@ -4223,7 +4222,7 @@
       "symbol": "3264.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:3324": {
       "price": 908.0,
@@ -4232,7 +4231,7 @@
       "symbol": "3324.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:3380": {
       "price": 30.8,
@@ -4241,7 +4240,7 @@
       "symbol": "3380.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "TW:3443": {
       "price": 4370.0,
@@ -4250,7 +4249,7 @@
       "symbol": "3443.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "TW:3529": {
       "price": 2600.0,
@@ -4259,7 +4258,7 @@
       "symbol": "3529.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:3533": {
       "price": 2010.0,
@@ -4268,7 +4267,7 @@
       "symbol": "3533.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:3661": {
       "price": 3590.0,
@@ -4277,7 +4276,7 @@
       "symbol": "3661.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "TW:3665": {
       "price": 2115.0,
@@ -4286,7 +4285,7 @@
       "symbol": "3665.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:3711": {
       "price": 656.0,
@@ -4295,7 +4294,7 @@
       "symbol": "3711.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:4908": {
       "price": 144.5,
@@ -4304,7 +4303,7 @@
       "symbol": "4908.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "TW:4938": {
       "price": 84.4,
@@ -4313,7 +4312,7 @@
       "symbol": "4938.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:4958": {
       "price": 559.0,
@@ -4322,7 +4321,7 @@
       "symbol": "4958.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:4966": {
       "price": 612.0,
@@ -4331,7 +4330,7 @@
       "symbol": "4966.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:6239": {
       "price": 294.0,
@@ -4340,7 +4339,7 @@
       "symbol": "6239.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:6282": {
       "price": 48.7,
@@ -4349,7 +4348,7 @@
       "symbol": "6282.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:6285": {
       "price": 253.0,
@@ -4358,7 +4357,7 @@
       "symbol": "6285.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "TW:6412": {
       "price": 82.2,
@@ -4367,7 +4366,7 @@
       "symbol": "6412.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "TW:6488": {
       "price": 1240.0,
@@ -4376,7 +4375,7 @@
       "symbol": "6488.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:6533": {
       "price": 234.5,
@@ -4385,7 +4384,7 @@
       "symbol": "6533.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:6669": {
       "price": 5500.0,
@@ -4394,7 +4393,7 @@
       "symbol": "6669.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "TW:6770": {
       "price": 67.9,
@@ -4403,7 +4402,7 @@
       "symbol": "6770.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "TW:8046": {
       "price": 1305.0,
@@ -4412,7 +4411,7 @@
       "symbol": "8046.TW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "TW:8299": {
       "price": 1915.0,
@@ -4421,178 +4420,178 @@
       "symbol": "8299.TWO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:AAPL": {
-      "price": 320.8,
-      "change": -1.56,
+      "price": 321.66,
+      "change": -1.3,
       "currency": "USD",
       "symbol": "AAPL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:ABBNY": {
-      "price": 97.87,
-      "change": -1.01,
+      "price": 97.73,
+      "change": -1.15,
       "currency": "USD",
       "symbol": "ABBNY",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:ACLS": {
-      "price": 140.99,
-      "change": -0.68,
+      "price": 141.51,
+      "change": -0.31,
       "currency": "USD",
       "symbol": "ACLS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:ADBE": {
-      "price": 211.29,
-      "change": -3.24,
+      "price": 212.17,
+      "change": -2.83,
       "currency": "USD",
       "symbol": "ADBE",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:ADI": {
-      "price": 377.24,
-      "change": -2.45,
+      "price": 380.2,
+      "change": -1.69,
       "currency": "USD",
       "symbol": "ADI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:ADSK": {
-      "price": 204.66,
-      "change": 0.57,
+      "price": 205.26,
+      "change": 0.86,
       "currency": "USD",
       "symbol": "ADSK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:AEHR": {
-      "price": 88.53,
-      "change": -5.36,
+      "price": 88.51,
+      "change": -5.38,
       "currency": "USD",
       "symbol": "AEHR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:AEP": {
-      "price": 134.71,
-      "change": 1.23,
+      "price": 134.92,
+      "change": 1.39,
       "currency": "USD",
       "symbol": "AEP",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:AEVA": {
-      "price": 16.2,
-      "change": -3.28,
+      "price": 16.1,
+      "change": -3.88,
       "currency": "USD",
       "symbol": "AEVA",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:AKAM": {
-      "price": 118.11,
-      "change": -4.98,
+      "price": 117.37,
+      "change": -5.58,
       "currency": "USD",
       "symbol": "AKAM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:ALAB": {
-      "price": 321.46,
-      "change": -2.85,
+      "price": 326.97,
+      "change": -1.19,
       "currency": "USD",
       "symbol": "ALAB",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:ALB": {
-      "price": 116.57,
-      "change": -0.74,
+      "price": 116.91,
+      "change": -0.46,
       "currency": "USD",
       "symbol": "ALB",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:AMAT": {
-      "price": 559.86,
-      "change": 1.07,
+      "price": 562.8,
+      "change": 1.6,
       "currency": "USD",
       "symbol": "AMAT",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:AMBA": {
-      "price": 69.91,
-      "change": 1.3,
+      "price": 70.51,
+      "change": 2.17,
       "currency": "USD",
       "symbol": "AMBA",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:AMD": {
-      "price": 537.5,
-      "change": -2.68,
+      "price": 539.69,
+      "change": -2.29,
       "currency": "USD",
       "symbol": "AMD",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:AME": {
-      "price": 240.36,
-      "change": 1.38,
+      "price": 241.14,
+      "change": 1.71,
       "currency": "USD",
       "symbol": "AME",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:AMKR": {
-      "price": 65.03,
-      "change": -2.9,
+      "price": 65.33,
+      "change": -2.45,
       "currency": "USD",
       "symbol": "AMKR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:AMZN": {
-      "price": 232.99,
-      "change": -4.85,
+      "price": 233.66,
+      "change": -4.57,
       "currency": "USD",
       "symbol": "AMZN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:ANET": {
-      "price": 175.98,
-      "change": 0.63,
+      "price": 176.61,
+      "change": 1.0,
       "currency": "USD",
       "symbol": "ANET",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:ANSS": {
       "price": null,
@@ -4604,1282 +4603,1282 @@
       "stale": false
     },
     "US:APD": {
-      "price": 295.0,
-      "change": -0.67,
+      "price": 294.29,
+      "change": -0.91,
       "currency": "USD",
       "symbol": "APD",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:APH": {
-      "price": 156.44,
-      "change": -0.68,
+      "price": 157.43,
+      "change": -0.05,
       "currency": "USD",
       "symbol": "APH",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:ARM": {
-      "price": 281.36,
-      "change": -0.72,
+      "price": 283.04,
+      "change": -0.13,
       "currency": "USD",
       "symbol": "ARM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:ASAN": {
-      "price": 6.59,
-      "change": -4.14,
+      "price": 6.57,
+      "change": -4.51,
       "currency": "USD",
       "symbol": "ASAN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:ASML": {
-      "price": 1794.77,
-      "change": -0.39,
+      "price": 1803.0,
+      "change": 0.06,
       "currency": "USD",
       "symbol": "ASML",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:ASX": {
-      "price": 39.21,
-      "change": -3.16,
+      "price": 39.46,
+      "change": -2.54,
       "currency": "USD",
       "symbol": "ASX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:ATI": {
-      "price": 199.32,
-      "change": 1.91,
+      "price": 199.84,
+      "change": 2.17,
       "currency": "USD",
       "symbol": "ATI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:AVGO": {
-      "price": 389.67,
-      "change": -1.8,
+      "price": 392.47,
+      "change": -1.09,
       "currency": "USD",
       "symbol": "AVGO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:AXTI": {
-      "price": 53.3,
-      "change": 0.6,
+      "price": 52.93,
+      "change": -0.09,
       "currency": "USD",
       "symbol": "AXTI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:BABA": {
-      "price": 113.58,
-      "change": -2.56,
+      "price": 114.06,
+      "change": -2.14,
       "currency": "USD",
       "symbol": "BABA",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:BIDU": {
-      "price": 106.79,
-      "change": -0.67,
+      "price": 107.39,
+      "change": -0.12,
       "currency": "USD",
       "symbol": "BIDU",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:BOX": {
-      "price": 28.3,
-      "change": -0.54,
+      "price": 28.28,
+      "change": -0.6,
       "currency": "USD",
       "symbol": "BOX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:CARR": {
-      "price": 68.95,
-      "change": 1.25,
+      "price": 69.15,
+      "change": 1.54,
       "currency": "USD",
       "symbol": "CARR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:CDNS": {
-      "price": 329.45,
-      "change": -2.24,
+      "price": 330.46,
+      "change": -1.94,
       "currency": "USD",
       "symbol": "CDNS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:CEG": {
-      "price": 276.86,
-      "change": 0.71,
+      "price": 275.6,
+      "change": 0.25,
       "currency": "USD",
       "symbol": "CEG",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:CGNX": {
-      "price": 62.86,
-      "change": 0.51,
+      "price": 63.44,
+      "change": 1.44,
       "currency": "USD",
       "symbol": "CGNX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:CLS": {
-      "price": 333.21,
-      "change": -0.68,
+      "price": 334.75,
+      "change": -0.22,
       "currency": "USD",
       "symbol": "CLS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:CMI": {
-      "price": 665.77,
-      "change": 0.76,
+      "price": 665.03,
+      "change": 0.65,
       "currency": "USD",
       "symbol": "CMI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:COHR": {
-      "price": 311.49,
-      "change": -0.22,
+      "price": 313.22,
+      "change": 0.33,
       "currency": "USD",
       "symbol": "COHR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:COHU": {
-      "price": 54.32,
-      "change": -1.25,
+      "price": 54.51,
+      "change": -0.91,
       "currency": "USD",
       "symbol": "COHU",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:CRDO": {
-      "price": 233.93,
-      "change": 2.48,
+      "price": 236.5,
+      "change": 3.61,
       "currency": "USD",
       "symbol": "CRDO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:CRM": {
-      "price": 157.02,
-      "change": -3.67,
+      "price": 156.93,
+      "change": -3.72,
       "currency": "USD",
       "symbol": "CRM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:CRS": {
-      "price": 603.35,
-      "change": 2.67,
+      "price": 601.54,
+      "change": 2.36,
       "currency": "USD",
       "symbol": "CRS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:CRWV": {
-      "price": 80.94,
-      "change": -2.06,
+      "price": 81.1,
+      "change": -1.86,
       "currency": "USD",
       "symbol": "CRWV",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:CSCO": {
-      "price": 112.4,
-      "change": 0.17,
+      "price": 112.76,
+      "change": 0.49,
       "currency": "USD",
       "symbol": "CSCO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:DBX": {
-      "price": 28.2,
-      "change": -1.69,
+      "price": 28.43,
+      "change": -0.91,
       "currency": "USD",
       "symbol": "DBX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:DD": {
-      "price": 136.85,
-      "change": -2.0,
+      "price": 137.4,
+      "change": -1.6,
       "currency": "USD",
       "symbol": "DD",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:46+00:00"
     },
     "US:DDOG": {
-      "price": 244.49,
-      "change": -0.52,
+      "price": 244.39,
+      "change": -0.56,
       "currency": "USD",
       "symbol": "DDOG",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:DELL": {
-      "price": 436.96,
-      "change": -1.09,
+      "price": 439.34,
+      "change": -0.56,
       "currency": "USD",
       "symbol": "DELL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:DLR": {
-      "price": 178.5,
-      "change": 0.05,
+      "price": 179.34,
+      "change": 0.52,
       "currency": "USD",
       "symbol": "DLR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:DOCU": {
-      "price": 46.92,
-      "change": -2.02,
+      "price": 47.04,
+      "change": -1.77,
       "currency": "USD",
       "symbol": "DOCU",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:DOV": {
-      "price": 197.13,
-      "change": -8.11,
+      "price": 197.8,
+      "change": -7.8,
       "currency": "USD",
       "symbol": "DOV",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:DOW": {
-      "price": 30.86,
-      "change": -1.25,
+      "price": 30.9,
+      "change": -1.12,
       "currency": "USD",
       "symbol": "DOW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:DUK": {
-      "price": 129.1,
-      "change": 0.9,
+      "price": 129.26,
+      "change": 1.02,
       "currency": "USD",
       "symbol": "DUK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:DUOL": {
-      "price": 120.05,
-      "change": 0.45,
+      "price": 120.67,
+      "change": 0.97,
       "currency": "USD",
       "symbol": "DUOL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:EME": {
-      "price": 767.36,
-      "change": 1.62,
+      "price": 769.07,
+      "change": 1.84,
       "currency": "USD",
       "symbol": "EME",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:EMR": {
-      "price": 144.72,
-      "change": 3.65,
+      "price": 144.9,
+      "change": 3.77,
       "currency": "USD",
       "symbol": "EMR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:ENTG": {
-      "price": 134.3,
-      "change": -2.31,
+      "price": 135.3,
+      "change": -1.59,
       "currency": "USD",
       "symbol": "ENTG",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:ENVX": {
-      "price": 4.39,
-      "change": -6.2,
+      "price": 4.34,
+      "change": -7.26,
       "currency": "USD",
       "symbol": "ENVX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:EQIX": {
-      "price": 1029.96,
-      "change": 0.12,
+      "price": 1033.55,
+      "change": 0.47,
       "currency": "USD",
       "symbol": "EQIX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:ETN": {
-      "price": 413.23,
-      "change": 1.55,
+      "price": 415.13,
+      "change": 2.02,
       "currency": "USD",
       "symbol": "ETN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:EXC": {
-      "price": 47.29,
-      "change": 1.27,
+      "price": 47.28,
+      "change": 1.24,
       "currency": "USD",
       "symbol": "EXC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:FLEX": {
-      "price": 127.36,
-      "change": 0.28,
+      "price": 127.94,
+      "change": 0.74,
       "currency": "USD",
       "symbol": "FLEX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:FLS": {
-      "price": 71.44,
-      "change": 4.15,
+      "price": 71.66,
+      "change": 4.48,
       "currency": "USD",
       "symbol": "FLS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:FN": {
-      "price": 515.46,
-      "change": 0.35,
+      "price": 517.73,
+      "change": 0.79,
       "currency": "USD",
       "symbol": "FN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:FORM": {
-      "price": 112.99,
-      "change": -0.35,
+      "price": 112.75,
+      "change": -0.56,
       "currency": "USD",
       "symbol": "FORM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:GDS": {
-      "price": 32.23,
-      "change": -1.44,
+      "price": 32.52,
+      "change": -0.55,
       "currency": "USD",
       "symbol": "GDS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:GEV": {
-      "price": 1035.17,
-      "change": 5.09,
+      "price": 1031.19,
+      "change": 4.69,
       "currency": "USD",
       "symbol": "GEV",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:GLW": {
-      "price": 155.59,
-      "change": 0.99,
+      "price": 156.06,
+      "change": 1.3,
       "currency": "USD",
       "symbol": "GLW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:GNRC": {
-      "price": 210.19,
-      "change": -1.51,
+      "price": 210.5,
+      "change": -1.37,
       "currency": "USD",
       "symbol": "GNRC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:GOOGL": {
-      "price": 318.2,
-      "change": -6.98,
+      "price": 317.69,
+      "change": -7.13,
       "currency": "USD",
       "symbol": "GOOGL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:GTLB": {
-      "price": 30.06,
-      "change": -4.13,
+      "price": 30.22,
+      "change": -3.6,
       "currency": "USD",
       "symbol": "GTLB",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:HON": {
-      "price": 244.42,
-      "change": 4.91,
+      "price": 246.27,
+      "change": 5.7,
       "currency": "USD",
       "symbol": "HON",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:HPE": {
-      "price": 47.56,
-      "change": -1.19,
+      "price": 47.64,
+      "change": -1.02,
       "currency": "USD",
       "symbol": "HPE",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:HPQ": {
-      "price": 24.4,
-      "change": -2.79,
+      "price": 24.51,
+      "change": -2.35,
       "currency": "USD",
       "symbol": "HPQ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:HSAI": {
-      "price": 14.7,
-      "change": -1.21,
+      "price": 14.76,
+      "change": -0.81,
       "currency": "USD",
       "symbol": "HSAI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:HUBB": {
-      "price": 486.89,
-      "change": 2.11,
+      "price": 488.38,
+      "change": 2.42,
       "currency": "USD",
       "symbol": "HUBB",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:HXL": {
-      "price": 109.9,
-      "change": 3.08,
+      "price": 109.89,
+      "change": 3.07,
       "currency": "USD",
       "symbol": "HXL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:IBM": {
-      "price": 205.55,
-      "change": -0.11,
+      "price": 206.65,
+      "change": 0.43,
       "currency": "USD",
       "symbol": "IBM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:IEX": {
-      "price": 221.89,
-      "change": -0.57,
+      "price": 222.22,
+      "change": -0.42,
       "currency": "USD",
       "symbol": "IEX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:INTC": {
-      "price": 99.51,
-      "change": -3.03,
+      "price": 100.23,
+      "change": -2.33,
       "currency": "USD",
       "symbol": "INTC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:INTU": {
-      "price": 280.57,
-      "change": -1.37,
+      "price": 281.53,
+      "change": -1.03,
       "currency": "USD",
       "symbol": "INTU",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:INVZ": {
-      "price": 0.63,
-      "change": -1.83,
+      "price": 0.62,
+      "change": -2.36,
       "currency": "USD",
       "symbol": "INVZ",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:IR": {
-      "price": 84.58,
-      "change": 1.25,
+      "price": 84.31,
+      "change": 0.92,
       "currency": "USD",
       "symbol": "IR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:IRM": {
-      "price": 124.26,
-      "change": -0.2,
+      "price": 124.55,
+      "change": 0.03,
       "currency": "USD",
       "symbol": "IRM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:ITT": {
-      "price": 195.36,
-      "change": 1.22,
+      "price": 195.2,
+      "change": 1.14,
       "currency": "USD",
       "symbol": "ITT",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:ITW": {
-      "price": 275.64,
-      "change": 0.62,
+      "price": 276.91,
+      "change": 1.09,
       "currency": "USD",
       "symbol": "ITW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:JBL": {
-      "price": 320.14,
-      "change": 0.58,
+      "price": 322.04,
+      "change": 1.18,
       "currency": "USD",
       "symbol": "JBL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:JCI": {
-      "price": 143.57,
-      "change": 0.76,
+      "price": 143.29,
+      "change": 0.56,
       "currency": "USD",
       "symbol": "JCI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:JD": {
-      "price": 30.06,
-      "change": -0.3,
+      "price": 30.09,
+      "change": -0.2,
       "currency": "USD",
       "symbol": "JD",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:KEYS": {
-      "price": 325.57,
-      "change": -0.6,
+      "price": 325.13,
+      "change": -0.73,
       "currency": "USD",
       "symbol": "KEYS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:KLAC": {
-      "price": 215.54,
-      "change": 0.4,
+      "price": 218.73,
+      "change": 1.88,
       "currency": "USD",
       "symbol": "KLAC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:LAC": {
-      "price": 2.9,
-      "change": -2.84,
+      "price": 2.91,
+      "change": -2.68,
       "currency": "USD",
       "symbol": "LAC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:LIDR": {
       "price": 1.18,
-      "change": -4.44,
+      "change": -4.84,
       "currency": "USD",
       "symbol": "LIDR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:LIN": {
-      "price": 505.08,
-      "change": -0.71,
+      "price": 506.32,
+      "change": -0.46,
       "currency": "USD",
       "symbol": "LIN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:LITE": {
-      "price": 831.73,
-      "change": 0.24,
+      "price": 833.64,
+      "change": 0.47,
       "currency": "USD",
       "symbol": "LITE",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:LRCX": {
-      "price": 318.73,
-      "change": -0.18,
+      "price": 319.78,
+      "change": 0.15,
       "currency": "USD",
       "symbol": "LRCX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:MBLY": {
-      "price": 7.51,
-      "change": -14.52,
+      "price": 7.47,
+      "change": -14.92,
       "currency": "USD",
       "symbol": "MBLY",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:MCHP": {
-      "price": 80.99,
-      "change": -4.75,
+      "price": 81.35,
+      "change": -4.32,
       "currency": "USD",
       "symbol": "MCHP",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:MDB": {
-      "price": 298.39,
-      "change": -2.16,
+      "price": 299.14,
+      "change": -1.91,
       "currency": "USD",
       "symbol": "MDB",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:META": {
-      "price": 603.44,
-      "change": -3.78,
+      "price": 606.1,
+      "change": -3.36,
       "currency": "USD",
       "symbol": "META",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:MMM": {
-      "price": 168.46,
-      "change": -1.35,
+      "price": 169.59,
+      "change": -0.69,
       "currency": "USD",
       "symbol": "MMM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:MOD": {
-      "price": 250.23,
-      "change": 0.24,
+      "price": 249.62,
+      "change": -0.01,
       "currency": "USD",
       "symbol": "MOD",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:MP": {
-      "price": 44.51,
-      "change": -2.55,
+      "price": 44.65,
+      "change": -2.25,
       "currency": "USD",
       "symbol": "MP",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:MRVL": {
-      "price": 206.44,
-      "change": -2.16,
+      "price": 209.32,
+      "change": -0.79,
       "currency": "USD",
       "symbol": "MRVL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:MSFT": {
-      "price": 379.73,
-      "change": -2.72,
+      "price": 381.58,
+      "change": -2.24,
       "currency": "USD",
       "symbol": "MSFT",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:MU": {
-      "price": 978.97,
-      "change": 2.03,
+      "price": 990.21,
+      "change": 3.2,
       "currency": "USD",
       "symbol": "MU",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:MVIS": {
       "price": 0.28,
-      "change": -6.43,
+      "change": -8.23,
       "currency": "USD",
       "symbol": "MVIS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:NBIS": {
-      "price": 218.91,
-      "change": 0.34,
+      "price": 220.97,
+      "change": 1.29,
       "currency": "USD",
       "symbol": "NBIS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:NEE": {
-      "price": 90.0,
-      "change": 0.65,
+      "price": 89.79,
+      "change": 0.43,
       "currency": "USD",
       "symbol": "NEE",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:NET": {
-      "price": 262.13,
-      "change": -2.55,
+      "price": 262.32,
+      "change": -2.48,
       "currency": "USD",
       "symbol": "NET",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:NOW": {
-      "price": 91.88,
-      "change": -3.76,
+      "price": 91.94,
+      "change": -3.69,
       "currency": "USD",
       "symbol": "NOW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:NTAP": {
-      "price": 163.72,
-      "change": -1.69,
+      "price": 164.64,
+      "change": -1.14,
       "currency": "USD",
       "symbol": "NTAP",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:NTES": {
-      "price": 119.66,
-      "change": -1.28,
+      "price": 120.18,
+      "change": -0.85,
       "currency": "USD",
       "symbol": "NTES",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:NVDA": {
-      "price": 207.18,
-      "change": -2.3,
+      "price": 208.76,
+      "change": -1.56,
       "currency": "USD",
       "symbol": "NVDA",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:NXPI": {
-      "price": 275.34,
-      "change": -1.24,
+      "price": 277.29,
+      "change": -0.54,
       "currency": "USD",
       "symbol": "NXPI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:ON": {
-      "price": 88.9,
-      "change": -3.71,
+      "price": 90.13,
+      "change": -2.38,
       "currency": "USD",
       "symbol": "ON",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:ORCL": {
-      "price": 119.61,
-      "change": -4.95,
+      "price": 120.04,
+      "change": -4.61,
       "currency": "USD",
       "symbol": "ORCL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:OUST": {
-      "price": 37.63,
-      "change": -3.17,
+      "price": 37.69,
+      "change": -3.01,
       "currency": "USD",
       "symbol": "OUST",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:PATH": {
-      "price": 10.19,
-      "change": -4.81,
+      "price": 10.2,
+      "change": -4.67,
       "currency": "USD",
       "symbol": "PATH",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:PDD": {
-      "price": 82.82,
-      "change": -0.92,
+      "price": 83.3,
+      "change": -0.35,
       "currency": "USD",
       "symbol": "PDD",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:PEG": {
-      "price": 79.65,
-      "change": 0.09,
+      "price": 79.77,
+      "change": 0.24,
       "currency": "USD",
       "symbol": "PEG",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:PH": {
-      "price": 982.05,
-      "change": 1.16,
+      "price": 985.48,
+      "change": 1.52,
       "currency": "USD",
       "symbol": "PH",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:PLTR": {
-      "price": 121.92,
-      "change": -2.13,
+      "price": 123.37,
+      "change": -0.96,
       "currency": "USD",
       "symbol": "PLTR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:PSTG": {
       "price": 72.31,
       "change": 4.28,
       "currency": "USD",
       "symbol": "PSTG",
-      "source": "yfinance_history+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale",
+      "source": "yfinance_history+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale+stale",
       "stale": true,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:46+00:00"
     },
     "US:PTC": {
-      "price": 112.39,
-      "change": -0.64,
+      "price": 113.05,
+      "change": -0.05,
       "currency": "USD",
       "symbol": "PTC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:PWR": {
-      "price": 650.09,
-      "change": 1.08,
+      "price": 653.8,
+      "change": 1.66,
       "currency": "USD",
       "symbol": "PWR",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:QCOM": {
-      "price": 169.3,
-      "change": -3.6,
+      "price": 171.11,
+      "change": -2.57,
       "currency": "USD",
       "symbol": "QCOM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:QS": {
       "price": 5.11,
-      "change": -12.95,
+      "change": -12.86,
       "currency": "USD",
       "symbol": "QS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:RBLX": {
-      "price": 47.67,
-      "change": -3.96,
+      "price": 47.55,
+      "change": -4.21,
       "currency": "USD",
       "symbol": "RBLX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:ROK": {
-      "price": 460.63,
+      "price": 460.65,
       "change": 0.53,
       "currency": "USD",
       "symbol": "ROK",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:SANM": {
-      "price": 218.92,
-      "change": 0.72,
+      "price": 218.56,
+      "change": 0.55,
       "currency": "USD",
       "symbol": "SANM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:SHOP": {
-      "price": 111.79,
-      "change": -5.6,
+      "price": 112.0,
+      "change": -5.42,
       "currency": "USD",
       "symbol": "SHOP",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:SMCI": {
-      "price": 31.03,
-      "change": 1.55,
+      "price": 31.2,
+      "change": 2.09,
       "currency": "USD",
       "symbol": "SMCI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:16+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:SMTC": {
-      "price": 138.0,
-      "change": 0.78,
+      "price": 138.68,
+      "change": 1.28,
       "currency": "USD",
       "symbol": "SMTC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:SNOW": {
-      "price": 264.38,
-      "change": -1.28,
+      "price": 265.13,
+      "change": -1.0,
       "currency": "USD",
       "symbol": "SNOW",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:SNPS": {
-      "price": 371.63,
-      "change": -1.58,
+      "price": 373.52,
+      "change": -1.08,
       "currency": "USD",
       "symbol": "SNPS",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:SO": {
-      "price": 96.43,
-      "change": 0.66,
+      "price": 96.6,
+      "change": 0.84,
       "currency": "USD",
       "symbol": "SO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:SOUN": {
-      "price": 6.23,
-      "change": -3.56,
+      "price": 6.22,
+      "change": -3.72,
       "currency": "USD",
       "symbol": "SOUN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:STM": {
-      "price": 53.13,
-      "change": -19.22,
+      "price": 53.49,
+      "change": -18.67,
       "currency": "USD",
       "symbol": "STM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:STX": {
-      "price": 912.83,
-      "change": 0.52,
+      "price": 913.36,
+      "change": 0.58,
       "currency": "USD",
       "symbol": "STX",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:SYM": {
-      "price": 40.31,
-      "change": -5.06,
+      "price": 40.57,
+      "change": -4.45,
       "currency": "USD",
       "symbol": "SYM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:21+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:TE": {
-      "price": 5.66,
-      "change": -6.05,
+      "price": 5.68,
+      "change": -5.8,
       "currency": "USD",
       "symbol": "TE",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:23+00:00"
+      "updated_at": "2026-07-23T20:51:45+00:00"
     },
     "US:TEAM": {
-      "price": 80.41,
-      "change": -5.84,
+      "price": 80.15,
+      "change": -6.15,
       "currency": "USD",
       "symbol": "TEAM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:19+00:00"
+      "updated_at": "2026-07-23T20:51:42+00:00"
     },
     "US:TEL": {
-      "price": 199.2,
-      "change": -0.54,
+      "price": 198.79,
+      "change": -0.74,
       "currency": "USD",
       "symbol": "TEL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:TER": {
-      "price": 369.51,
-      "change": 0.01,
+      "price": 373.75,
+      "change": 1.16,
       "currency": "USD",
       "symbol": "TER",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:13+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:TLN": {
-      "price": 378.85,
-      "change": 0.38,
+      "price": 379.27,
+      "change": 0.49,
       "currency": "USD",
       "symbol": "TLN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:TME": {
-      "price": 8.72,
-      "change": -0.68,
+      "price": 8.76,
+      "change": -0.23,
       "currency": "USD",
       "symbol": "TME",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:TSLA": {
-      "price": 316.27,
-      "change": -15.44,
+      "price": 319.69,
+      "change": -14.52,
       "currency": "USD",
       "symbol": "TSLA",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:TSM": {
-      "price": 413.64,
-      "change": -1.8,
+      "price": 415.58,
+      "change": -1.34,
       "currency": "USD",
       "symbol": "TSM",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:TT": {
-      "price": 480.16,
-      "change": 1.39,
+      "price": 479.71,
+      "change": 1.29,
       "currency": "USD",
       "symbol": "TT",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:TTMI": {
-      "price": 144.23,
-      "change": -0.32,
+      "price": 144.85,
+      "change": 0.1,
       "currency": "USD",
       "symbol": "TTMI",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:15+00:00"
+      "updated_at": "2026-07-23T20:51:39+00:00"
     },
     "US:TXN": {
-      "price": 282.59,
-      "change": -3.94,
+      "price": 284.99,
+      "change": -3.13,
       "currency": "USD",
       "symbol": "TXN",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:U": {
-      "price": 28.57,
-      "change": -2.39,
+      "price": 28.94,
+      "change": -1.13,
       "currency": "USD",
       "symbol": "U",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     },
     "US:UMC": {
-      "price": 20.84,
-      "change": -2.09,
+      "price": 20.87,
+      "change": -1.97,
       "currency": "USD",
       "symbol": "UMC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:37+00:00"
     },
     "US:VECO": {
-      "price": 54.25,
-      "change": -0.64,
+      "price": 54.58,
+      "change": -0.04,
       "currency": "USD",
       "symbol": "VECO",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:17+00:00"
+      "updated_at": "2026-07-23T20:51:40+00:00"
     },
     "US:VEEV": {
-      "price": 179.42,
-      "change": -2.78,
+      "price": 179.58,
+      "change": -2.69,
       "currency": "USD",
       "symbol": "VEEV",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:20+00:00"
+      "updated_at": "2026-07-23T20:51:43+00:00"
     },
     "US:VNET": {
-      "price": 7.74,
-      "change": -1.09,
+      "price": 7.77,
+      "change": -0.64,
       "currency": "USD",
       "symbol": "VNET",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:18+00:00"
+      "updated_at": "2026-07-23T20:51:41+00:00"
     },
     "US:VRT": {
-      "price": 302.76,
-      "change": 0.53,
+      "price": 304.04,
+      "change": 0.96,
       "currency": "USD",
       "symbol": "VRT",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:12+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:VST": {
-      "price": 168.68,
-      "change": 1.16,
+      "price": 168.98,
+      "change": 1.34,
       "currency": "USD",
       "symbol": "VST",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:11+00:00"
+      "updated_at": "2026-07-23T20:51:36+00:00"
     },
     "US:WDC": {
-      "price": 558.01,
-      "change": 0.24,
+      "price": 558.3,
+      "change": 0.29,
       "currency": "USD",
       "symbol": "WDC",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:14+00:00"
+      "updated_at": "2026-07-23T20:51:38+00:00"
     },
     "US:XYL": {
-      "price": 116.93,
-      "change": 0.68,
+      "price": 116.87,
+      "change": 0.63,
       "currency": "USD",
       "symbol": "XYL",
       "source": "yfinance_history",
       "stale": false,
-      "updated_at": "2026-07-23T19:49:22+00:00"
+      "updated_at": "2026-07-23T20:51:44+00:00"
     }
   }
 }
